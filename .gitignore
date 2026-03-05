@@ -1,0 +1,26 @@
+# Secret tokens — NEVER commit this
+.env
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Auto-created by the bot at runtime — no need to commit
+active_timers.json
+kill_log.json
+kill_log_archive.json
+config.json
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# PyCharm
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db

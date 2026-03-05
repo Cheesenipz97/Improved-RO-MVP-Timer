@@ -1,0 +1,312 @@
+{
+  "mvps": {
+    "Amon Ra": {
+      "map": "moc_pryd06",
+      "map_name": "Pyramid B2F",
+      "respawn_min": 60,
+      "respawn_max": 70,
+      "notes": "Bring Fire Weapons, Drops Nothing Valuable"
+    },
+    "Atroce1": {
+      "map": "ve_fild01",
+      "map_name": "Veins Field 1",
+      "respawn_min": 180,
+      "respawn_max": 190,
+      "notes": "Veins Field 1, Drops Ulle's Cap, Use Holy Property"
+    },
+    "Atroce2": {
+      "map": "ve_fild02",
+      "map_name": "Veins Field 2",
+      "respawn_min": 360,
+      "respawn_max": 370,
+      "notes": "Veins Field 2, Drops Ulle's Cap, Use Holy Property"
+    },
+    "Atroce3": {
+      "map": "ra_fild02",
+      "map_name": "Rachel Field 2",
+      "respawn_min": 240,
+      "respawn_max": 250,
+      "notes": "Rachel Field 2, Drops Ulle's Cap, Use Holy Property"
+    },
+    "Atroce4": {
+      "map": "ra_fild03",
+      "map_name": "Rachel Field 3",
+      "respawn_min": 180,
+      "respawn_max": 190,
+      "notes": "Rachel Field 3, Drops Ulle's Cap, Use Holy Property"
+    },
+    "Atroce5": {
+      "map": "ra_fild04",
+      "map_name": "Rachel Field 4",
+      "respawn_min": 300,
+      "respawn_max": 310,
+      "notes": "Rachel Field 4, Drops Ulle's Cap, Use Holy Property"
+    },
+    "Baphomет": {
+      "map": "prt_maze03",
+      "map_name": "Labyrinth Forest F3",
+      "respawn_min": 120,
+      "respawn_max": 130,
+      "notes": "AoE heavy, watch for Meteor Storm"
+    },
+    "Beelzebub": {
+      "map": "abbey03",
+      "map_name": "Cursed Abbey Dungeon F3",
+      "respawn_min": 720,
+      "respawn_max": 730,
+      "notes": "Ghost Element, Casts Earthquake, Tough To Kill, Drops Bison Horn And Other Stuff, Worth Farming"
+    },
+    "Darklord": {
+      "map": "gl_chyard",
+      "map_name": "Glast Heim Churchyard",
+      "respawn_min": 60,
+      "respawn_max": 70,
+      "notes": "Undead property"
+    },
+    "Detale": {
+      "map": "abyss_03",
+      "map_name": "Abyss Dungeon F3",
+      "respawn_min": 180,
+      "respawn_max": 190,
+      "notes": "Use Holy Property, Drops Morpheus Gear, But Fairly Useless To Hunt"
+    },
+    "Doppelganger": {
+      "map": "gef_dun02",
+      "map_name": "Geffen Dungeon F3",
+      "respawn_min": 120,
+      "respawn_max": 130,
+      "notes": "High ASPD, use Ghost Element"
+    },
+    "Dracula": {
+      "map": "gef_dun01",
+      "map_name": "Geffen Dungeon F2",
+      "respawn_min": 60,
+      "respawn_max": 70,
+      "notes": "Useless Drops, Reflects Damage"
+    },
+    "Drake": {
+      "map": "treasure02",
+      "map_name": "Pirate Ship Dungeon",
+      "respawn_min": 120,
+      "respawn_max": 130,
+      "notes": "Undead, drops Corsair"
+    },
+    "Eclipse": {
+      "map": "pay_fild04",
+      "map_name": "Payyon Field 4",
+      "respawn_min": 60,
+      "respawn_max": 70,
+      "notes": "Uses Lex Aeterna"
+    },
+    "Eddga": {
+      "map": "pay_fild11",
+      "map_name": "Payon Field 11",
+      "respawn_min": 120,
+      "respawn_max": 130,
+      "notes": "Fire property, drops Tiger Footskin"
+    },
+    "Evil Snake Lord": {
+      "map": "gon_dun03",
+      "map_name": "Gonryun Dungeon F3",
+      "respawn_min": 94,
+      "respawn_max": 104,
+      "notes": "Ghost Element"
+    },
+    "Fallen Bishop": {
+      "map": "abbey02",
+      "map_name": "Cursed Abbey Dungeon F2",
+      "respawn_min": 120,
+      "respawn_max": 130,
+      "notes": "Use Holy Element, Trap & Kill With DS"
+    },
+    "Garm": {
+      "map": "xmas_dun02",
+      "map_name": "Toy Factory 2F",
+      "respawn_min": 120,
+      "respawn_max": 130,
+      "notes": "Water/Ice property, Casts Teleport"
+    },
+    "Gloom Under Night": {
+      "map": "ra_san05",
+      "map_name": "Rachel Sanctuary F5",
+      "respawn_min": 300,
+      "respawn_max": 310,
+      "notes": "Ghost Property, Hard To Hit"
+    },
+    "Ghostring": {
+      "map": "pay_dun04",
+      "map_name": "Payon Cave F4",
+      "respawn_min": 172,
+      "respawn_max": 182,
+      "notes": "Ghost property, hard to hit, Casts Teleport"
+    },
+    "Gopinich": {
+      "map": "mosk_dun03",
+      "map_name": "Moscovia Dungeon F3",
+      "respawn_min": 120,
+      "respawn_max": 130,
+      "notes": "Use Fire, Asura Or Trap & Kill, EZ To Kill, Shit Loot"
+    },
+    "Golden Thief Bug": {
+      "map": "prt_sewb4",
+      "map_name": "Prontera Culverts F4",
+      "respawn_min": 60,
+      "respawn_max": 70,
+      "notes": "High MDEF, Wise to use Melee"
+    },
+    "Ifrit": {
+      "map": "Thor_v03",
+      "map_name": "Thor Volcano 3",
+      "respawn_min": 660,
+      "respawn_max": 670,
+      "notes": "Casts Earthquake, Very Tough To Kill, Need a Squad, Drops ROR, Very Worth Farming"
+    },
+    "Incantation Samurai": {
+      "map": "ayo_dun02",
+      "map_name": "Ayothaya Dungeon F2",
+      "respawn_min": 94,
+      "respawn_max": 104,
+      "notes": "High DEF, Wind property"
+    },
+    "Kiel D-01": {
+      "map": "kh_dun02",
+      "map_name": "Kiel Factory F2",
+      "respawn_min": 120,
+      "respawn_max": 180,
+      "notes": "Use Holy Property, Decent Drops, Trap & DS"
+    },
+    "Lady Tanee": {
+      "map": "ayo_dun02",
+      "map_name": "Ayothaya Dungeon F2",
+      "respawn_min": 420,
+      "respawn_max": 430,
+      "notes": "Useless MVP, Drops Sh1te Loot, Teleports, Not Worth Killing"
+    },
+    "Lord of Death": {
+      "map": "niflheim",
+      "map_name": "Niflheim",
+      "respawn_min": 133,
+      "respawn_max": 143,
+      "notes": "Casts Lex Aeterna + Earthquake, Drops Ice Pick"
+    },
+    "Maya": {
+      "map": "anthell02",
+      "map_name": "Ant Hell F2",
+      "respawn_min": 120,
+      "respawn_max": 130,
+      "notes": "Reflects magic, Casts Teleport"
+    },
+    "Maya Purple": {
+      "map": "anthell02",
+      "map_name": "Ant Hell F2",
+      "respawn_min": 172,
+      "respawn_max": 182,
+      "notes": "Rare MVP, drops Maya Purple Card, Casts Teleport"
+    },
+    "Mistress": {
+      "map": "mjolnir_04",
+      "map_name": "Mjolnir Field 4",
+      "respawn_min": 120,
+      "respawn_max": 130,
+      "notes": "Casts Teleport, Bitch To Kill"
+    },
+    "Moonlight Flower": {
+      "map": "pay_dun04",
+      "map_name": "Payon Cave F4",
+      "respawn_min": 120,
+      "respawn_max": 130,
+      "notes": "Fire property, Easy to Kill. Trash MVP"
+    },
+    "Orc Hero": {
+      "map": "gef_fild02",
+      "map_name": "Geffen Field 2",
+      "respawn_min": 172,
+      "respawn_max": 182,
+      "notes": "Stun immune, Earth property"
+    },
+    "Orc Lord": {
+      "map": "gef_fild14",
+      "map_name": "Geffen Field 14",
+      "respawn_min": 120,
+      "respawn_max": 130,
+      "notes": "Earth property, high HP, Casts Earthquake"
+    },
+    "Osiris": {
+      "map": "moc_pryd04",
+      "map_name": "Pyramid F2",
+      "respawn_min": 60,
+      "respawn_max": 70,
+      "notes": "Undead, Resurrects itself"
+    },
+    "Phreeoni": {
+      "map": "moc_fild17",
+      "map_name": "Morocc Field 17",
+      "respawn_min": 120,
+      "respawn_max": 130,
+      "notes": "High HIT rate, drops Phreeoni Card"
+    },
+    "Pharaoh": {
+      "map": "moc_pryd06",
+      "map_name": "Pyramid B2F",
+      "respawn_min": 60,
+      "respawn_max": 70,
+      "notes": "Reduces SP of players nearby"
+    },
+    "RSX": {
+      "map": "ein_dun02",
+      "map_name": "Einbech Mine F2",
+      "respawn_min": 125,
+      "respawn_max": 135,
+      "notes": "Casts Earthquake, Drops Icepick"
+    },
+    "Stormy Knight": {
+      "map": "xmas_dun01",
+      "map_name": "Toy Factory 1F",
+      "respawn_min": 60,
+      "respawn_max": 70,
+      "notes": "Freeze skills, Wind/Water"
+    },
+    "Tao Gunka": {
+      "map": "beach_dun",
+      "map_name": "Byalan Island Dungeon",
+      "respawn_min": 300,
+      "respawn_max": 310,
+      "notes": "Reduces max HP, very tanky"
+    },
+    "Turtle General": {
+      "map": "tur_dun04",
+      "map_name": "Turtle Island Dungeon F4",
+      "respawn_min": 60,
+      "respawn_max": 70,
+      "notes": "High damage, drops TG Card"
+    },
+    "Valkyrie Randgris": {
+      "map": "odin_tem03",
+      "map_name": "Odin Temple F3",
+      "respawn_min": 480,
+      "respawn_max": 492,
+      "notes": "Dispels, Holy property, Spawns Valkyrie Minions, Kill 2 only"
+    },
+    "Vesper": {
+      "map": "jupe_core",
+      "map_name": "Juperos Core",
+      "respawn_min": 94,
+      "respawn_max": 104,
+      "notes": "Mecha-type, Magic Gear, Asura + Lex For Fast Kill"
+    },
+    "White Lady": {
+      "map": "pay_dun04",
+      "map_name": "Payon Cave F4",
+      "respawn_min": 120,
+      "respawn_max": 130,
+      "notes": "Healing skills, Undead weakness"
+    },
+    "Wounded Morocc": {
+      "map": "moc_fild22",
+      "map_name": "Morroc Field 22",
+      "respawn_min": 720,
+      "respawn_max": 780,
+      "notes": "Use Holy Element, The Top G Of MVP's, Bring The Squad And Prepare For Earthquakes"
+    }
+  }
+}
